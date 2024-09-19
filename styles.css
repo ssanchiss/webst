@@ -142,6 +142,13 @@ section h2 {
     object-fit: cover; /* Asegura que la imagen cubra el contenedor sin deformarse */
 }
 
+.parrafo{
+    background-color: white;
+    border-radius: 12px;
+}
+
+
+
 /* Tarjetas de motivos por los que hacer una página */
 .card {
     cursor: pointer;
